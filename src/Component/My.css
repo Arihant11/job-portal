@@ -1,0 +1,57 @@
+body{
+   
+    background-image: url(./job1.jpg);
+    background-position: fixed;
+      filter: blur(.5px);
+      /* -webkit-filter: blur(0.5px); */
+     background-size: cover;
+     background-repeat:none;
+    
+  }
+
+
+.nav-item{
+    color:white;
+  }
+
+form{
+
+    border:1px double black;
+    /* background: #1C8EF9 !important; */
+   background:#f8f8f8 transparent; 
+     width: 450px;
+     border-radius: 10px;
+      margin: auto;margin-top: 120px;
+      padding:20px 50px;
+ /* background-color: rgba(0, 4, 1, 0.2); */
+    /* border-radius: 15px;
+   background-color: rgba(0, 4, 1, 0.2);
+    /* width: 33vw; */
+    /* font-display: 10px;
+    margin-right: 15px;
+    margin-top: 15vh;
+    border:2px transparent;
+     box-shadow: 2px 7px #004557;
+    font-size:17px;
+    color: lime;
+  
+    
+    position: absolute;
+    bottom: 2;
+    right: 0;
+    width:400px;
+
+    padding: 10px 20px 10px 20px; */ 
+} 
+
+label{
+    font-size: 20px;
+    float: left;
+    color:black;
+ }
+
+p{
+    color:black;
+    font-size: 15px;
+ } 
+ 
